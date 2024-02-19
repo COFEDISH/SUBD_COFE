@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\COFED\Desktop\SubdCOFE_web-master\SubdCOFE\Server.cpp(38,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\COFED\Desktop\SubdCOFE_web-master\SubdCOFE\Server.cpp(52,115): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  SubdCOFE.vcxproj -> C:\Users\COFED\Desktop\SubdCOFE_web-master\x64\Debug\SubdCOFE.exe

@@ -1,0 +1,45 @@
+[
+{"Id": "1",
+	 "Name": "PlusMed",
+	 "Address": "plohotnogo 73"}
+	,
+	 {"Id": "2",
+	 "Name": "Krasniy Krest",
+	 "Address": "Krasniy prospect 6"}
+	,
+	 {"Id": "3",
+	 "Name": "Aboba",
+	 "Address": "Aboba prospect 228"}
+	,
+	 {"Id": "4",
+	 "Name": "Healthy Life",
+	 "Address": "Baker Street 221B"}
+	,
+	 {"Id": "5",
+	 "Name": "Pharma World",
+	 "Address": "Main Avenue 123"}
+	,
+	 {"Id": "6",
+	 "Name": "MediCare",
+	 "Address": "Sunset Boulevard 567"}
+	,
+	 {"Id": "7",
+	 "Name": "Medical Center",
+	 "Address": "Maple Street 89"}
+	,
+	 {"Id": "8",
+	 "Name": "Health Hub",
+	 "Address": "Elm Avenue 456"}
+	,
+	 {"Id": "9",
+	 "Name": "Wellness Pharmacy",
+	 "Address": "Oak Lane 78"}
+	,
+	 {"Id": "10",
+	 "Name": "Care Corner",
+	 "Address": "Cedar Road 321"}
+	,
+	 {"Id": "11",
+	 "Name": "Vitality Drugs",
+	 "Address": "Pine Court 555"}
+]

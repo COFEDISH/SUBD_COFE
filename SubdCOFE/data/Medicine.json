@@ -1,0 +1,302 @@
+[
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Aspirin",
+    "Manufacturer": "BAYER",
+    "Production date": "28.11.2023",
+    "Availability in pharmacies": "1 2 3",
+    "Cost": "592800",
+    "Count": "1234"
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Paracetamol",
+    "Manufacturer": "Generic",
+    "Production date": "15.06.2023",
+    "Availability in pharmacies": "2 3 4",
+    "Cost": "25000",
+    "Count": "500"
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Ibuprofen",
+    "Manufacturer": "Generic",
+    "Production date": "05.02.2024",
+    "Availability in pharmacies": "1 3",
+    "Cost": "35000",
+    "Count": "700"
+  },
+  {
+    "Category by action": "Antacid",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Omeprazole",
+    "Manufacturer": "Pharma Ltd.",
+    "Production date": "20.09.2023",
+    "Availability in pharmacies": "1 4",
+    "Cost": "150000",
+    "Count": "300"
+  },
+  {
+    "Category by action": "Antibiotic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Amoxicillin",
+    "Manufacturer": "Pharma Corp.",
+    "Production date": "10.12.2023",
+    "Availability in pharmacies": "2 5",
+    "Cost": "45000",
+    "Count": "600"
+  },
+  {
+    "Category by action": "Corticosteroid",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Prednisone",
+    "Manufacturer": "Generic",
+    "Production date": "18.03.2024",
+    "Availability in pharmacies": "3 6",
+    "Cost": "89000",
+    "Count": "150"
+  },
+  {
+    "Category by action": "Antidiabetic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Metformin",
+    "Manufacturer": "Pharma Ltd.",
+    "Production date": "02.08.2023",
+    "Availability in pharmacies": "4",
+    "Cost": "62000",
+    "Count": "200"
+  },
+  {
+    "Category by action": "Antihyperlipidemic",
+    "Category by system": "Cardiovascular",
+    "Medicine": "Atorvastatin",
+    "Manufacturer": "Pharma Corp.",
+    "Production date": "14.05.2024",
+    "Availability in pharmacies": "5 6",
+    "Cost": "78000",
+    "Count": "450"
+  },
+  {
+    "Category by action": "Antibiotic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Ciprofloxacin",
+    "Manufacturer": "Generic",
+    "Production date": "30.01.2023",
+    "Availability in pharmacies": "1 3 5",
+    "Cost": "56000",
+    "Count": "800"
+  },
+  {
+    "Category by action": "Antihypertensive",
+    "Category by system": "Cardiovascular",
+    "Medicine": "Losartan",
+    "Manufacturer": "Generic Pharma",
+    "Production date": "10.09.2024",
+    "Availability in pharmacies": "1 4 6",
+    "Cost": "68000",
+    "Count": "300"
+  },
+  {
+    "Category by action": "Antifungal",
+    "Category by system": "Dermatological",
+    "Medicine": "Clotrimazole",
+    "Manufacturer": "Derm Pharma",
+    "Production date": "22.12.2023",
+    "Availability in pharmacies": "2 3",
+    "Cost": "42000",
+    "Count": "150"
+  },
+  {
+    "Category by action": "Antidepressant",
+    "Category by system": "Central Nervous System",
+    "Medicine": "Fluoxetine",
+    "Manufacturer": "Neuro Corp.",
+    "Production date": "05.06.2024",
+    "Availability in pharmacies": "3 5",
+    "Cost": "55000",
+    "Count": "200"
+  },
+  {
+    "Category by action": "Antibacterial",
+    "Category by system": "Respiratory",
+    "Medicine": "Azithromycin",
+    "Manufacturer": "MediPharm",
+    "Production date": "14.11.2023",
+    "Availability in pharmacies": "1 2 4",
+    "Cost": "76000",
+    "Count": "500"
+  },
+  {
+    "Category by action": "Antiviral",
+    "Category by system": "Immunological",
+    "Medicine": "Oseltamivir",
+    "Manufacturer": "ImmuGen",
+    "Production date": "28.05.2024",
+    "Availability in pharmacies": "5 6",
+    "Cost": "92000",
+    "Count": "400"
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Naproxen",
+    "Manufacturer": "PharmaNex",
+    "Production date": "10.03.2024",
+    "Availability in pharmacies": "1 3 6",
+    "Cost": "48000",
+    "Count": "700"
+  },
+  {
+    "Category by action": "Antihistamine",
+    "Category by system": "Respiratory",
+    "Medicine": "Loratadine",
+    "Manufacturer": "AllerPharm",
+    "Production date": "12.08.2023",
+    "Availability in pharmacies": "2 4 5",
+    "Cost": "32000",
+    "Count": "250"
+  },
+  {
+    "Category by action": "Anticoagulant",
+    "Category by system": "Cardiovascular",
+    "Medicine": "Warfarin",
+    "Manufacturer": "CardioGen",
+    "Production date": "07.02.2024",
+    "Availability in pharmacies": "3",
+    "Cost": "69000",
+    "Count": "150"
+  },
+  {
+    "Category by action": "Antiemetic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Metoclopramide",
+    "Manufacturer": "GastroPharm",
+    "Production date": "25.09.2023",
+    "Availability in pharmacies": "4 6",
+    "Cost": "40000",
+    "Count": "300"
+  },
+  {
+    "Category by action": "Antipsychotic",
+    "Category by system": "Central Nervous System",
+    "Medicine": "Risperidone",
+    "Manufacturer": "NeuroPharm",
+    "Production date": "18.07.2024",
+    "Availability in pharmacies": "1 2 5",
+    "Cost": "83000",
+    "Count": "180"
+  },
+  {
+    "Category by action": "Antiviral",
+    "Category by system": "Immunological",
+    "Medicine": "Acyclovir",
+    "Manufacturer": "ViroPharm",
+    "Production date": "30.04.2023",
+    "Availability in pharmacies": "3 4 6",
+    "Cost": "58000",
+    "Count": "550"
+  },
+  {
+    "Category by action": "Antidepressant",
+    "Category by system": "Central Nervous System",
+    "Medicine": "Sertraline",
+    "Manufacturer": "MoodPharm",
+    "Production date": "06.12.2023",
+    "Availability in pharmacies": "2 5",
+    "Cost": "70000",
+    "Count": "320"
+  },
+  {
+    "Category by action": "Antibacterial",
+    "Category by system": "Respiratory",
+    "Medicine": "Amoxicillin",
+    "Manufacturer": "Pharma Ltd.",
+    "Production date": "20.10.2024",
+    "Availability in pharmacies": "1 4 6",
+    "Cost": "72000",
+    "Count": "480"
+  },
+  {
+    "Category by action": "Antifungal",
+    "Category by system": "Dermatological",
+    "Medicine": "Ketoconazole",
+    "Manufacturer": "DermPharma",
+    "Production date": "16.01.2023",
+    "Availability in pharmacies": "3 5",
+    "Cost": "46000",
+    "Count": "220"
+  },
+  {
+    "Category by action": "Antihypertensive",
+    "Category by system": "Cardiovascular",
+    "Medicine": "Enalapril",
+    "Manufacturer": "CardioPharm",
+    "Production date": "24.08.2023",
+    "Availability in pharmacies": "2 4",
+    "Cost": "55000",
+    "Count": "380"
+  },
+  {
+    "Category by action": "Antipsychotic",
+    "Category by system": "Central Nervous System",
+    "Medicine": "Quetiapine",
+    "Manufacturer": "MentalPharm",
+    "Production date": "12.03.2024",
+    "Availability in pharmacies": "1 5 6",
+    "Cost": "79000",
+    "Count": "190"
+  },
+  {
+    "Category by action": "Antihistamine",
+    "Category by system": "Respiratory",
+    "Medicine": "Diphenhydramine",
+    "Manufacturer": "AllerPharm",
+    "Production date": "30.05.2024",
+    "Availability in pharmacies": "3 4",
+    "Cost": "38000",
+    "Count": "270"
+  },
+  {
+    "Category by action": "Antibiotic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Doxycycline",
+    "Manufacturer": "Pharma Corp.",
+    "Production date": "08.11.2023",
+    "Availability in pharmacies": "1 2 5",
+    "Cost": "69000",
+    "Count": "520"
+  },
+  {
+    "Category by action": "Antifungal",
+    "Category by system": "Dermatological",
+    "Medicine": "Terbinafine",
+    "Manufacturer": "DermPharma",
+    "Production date": "17.07.2024",
+    "Availability in pharmacies": "4 6",
+    "Cost": "49000",
+    "Count": "180"
+  },
+  {
+    "Category by action": "Antidepressant",
+    "Category by system": "Central Nervous System",
+    "Medicine": "Citalopram",
+    "Manufacturer": "MoodPharm",
+    "Production date": "23.12.2023",
+    "Availability in pharmacies": "2 3 5",
+    "Cost": "64000",
+    "Count": "300"
+  },
+  {
+    "Category by action": "Antihypertensive",
+    "Category by system": "Cardiovascular",
+    "Medicine": "Amlodipine",
+    "Manufacturer": "CardioPharm",
+    "Production date": "01.09.2023",
+    "Availability in pharmacies": "1 4",
+    "Cost": "62000",
+    "Count": "360"
+  }
+]

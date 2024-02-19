@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: cofesubd-statefulset
+spec:
+  serviceName: cofesubd-service
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cofesubd
+  template:
+    metadata:
+      labels:
+        app: cofesubd
+    spec:
+      containers:
+      - name: cofesubd
+        image: cofedish/subdcofe:insulin
+        ports:
+        - containerPort: 6379
+        volumeMounts:
+        - name: storage
+          mountPath: /data  # Место монтирования данных в контейнере
+  volumeClaimTemplates:
+  - metadata:
+      name: storage
+    spec:
+      accessModes: [ "ReadWriteOnce" ]
+      resources:
+        requests:
+          storage: 1Gi  # Размер тома, который будет создан для каждой реплики
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: cofesubd-service
+spec:
+  selector:
+    app: cofesubd
+  ports:
+    - protocol: TCP
+      port: 6379
+      targetPort: 6379

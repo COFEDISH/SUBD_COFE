@@ -1,0 +1,222 @@
+[
+  {
+    "Category by action": "Antibiotic",
+    "Category by system": "Respiratory",
+    "Medicine": "Amoxicillin",
+    "Manufacturer": "PharmaCo",
+    "Production date": "15.02.2023",
+    "Availability in pharmacies": "1 2 3",
+    "Cost": "150000",
+    "Count": "500",
+    "Description": "Treats bacterial infections. Commonly prescribed for respiratory issues."
+  },
+  {
+    "Category by action": "Antihistamine",
+    "Category by system": "Respiratory",
+    "Medicine": "Loratadine",
+    "Manufacturer": "AllerPharm",
+    "Production date": "10.06.2023",
+    "Availability in pharmacies": "4 5 6",
+    "Cost": "85000",
+    "Count": "800",
+    "Description": "Relieves allergy symptoms. Helps manage hay fever and allergic rhinitis."
+  },
+  {
+    "Category by action": "Antacid",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Omeprazole",
+    "Manufacturer": "GastroRelief",
+    "Production date": "20.11.2023",
+    "Availability in pharmacies": "7 8 9",
+    "Cost": "230000",
+    "Count": "1200",
+    "Description": "Reduces stomach acid. Often used to treat heartburn and acid reflux."
+  },
+  {
+    "Category by action": "Antipyretic",
+    "Category by system": "General",
+    "Medicine": "Paracetamol",
+    "Manufacturer": "FeverAway",
+    "Production date": "05.09.2023",
+    "Availability in pharmacies": "10 11 12",
+    "Cost": "120000",
+    "Count": "2000",
+    "Description": "Lowers fever and provides pain relief. Commonly used for headaches and fever."
+  },
+  {
+    "Category by action": "Antiemetic",
+    "Category by system": "General",
+    "Medicine": "Ondansetron",
+    "Manufacturer": "NauseaNoMore",
+    "Production date": "22.12.2023",
+    "Availability in pharmacies": "13 14 15",
+    "Cost": "370000",
+    "Count": "700",
+    "Description": "Prevents nausea and vomiting. Often used for chemotherapy patients."
+  },
+  {
+    "Category by action": "Antibiotic",
+    "Category by system": "Respiratory",
+    "Medicine": "Azithromycin",
+    "Manufacturer": "RespiPharm",
+    "Production date": "18.07.2023",
+    "Availability in pharmacies": "16 17 18",
+    "Cost": "280000",
+    "Count": "900",
+    "Description": "Treats bacterial infections. Used for respiratory tract and skin infections."
+  },
+  {
+    "Category by action": "Antihistamine",
+    "Category by system": "General",
+    "Medicine": "Cetirizine",
+    "Manufacturer": "HistamineBlock",
+    "Production date": "09.04.2023",
+    "Availability in pharmacies": "19 20 21",
+    "Cost": "96000",
+    "Count": "1500",
+    "Description": "Relieves allergy symptoms. Effective against allergic rhinitis and hives."
+  },
+  {
+    "Category by action": "Antacid",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Ranitidine",
+    "Manufacturer": "AcidRelief",
+    "Production date": "14.10.2023",
+    "Availability in pharmacies": "22 23 24",
+    "Cost": "210000",
+    "Count": "1100",
+    "Description": "Reduces stomach acid. Treats ulcers and acid reflux disease."
+  },
+  {
+    "Category by action": "Antipyretic",
+    "Category by system": "General",
+    "Medicine": "Ibuprofen",
+    "Manufacturer": "PainEase",
+    "Production date": "01.03.2023",
+    "Availability in pharmacies": "25 26 27",
+    "Cost": "180000",
+    "Count": "1900",
+    "Description": "Lowers fever and reduces inflammation. Helps with pain relief."
+  },
+  {
+    "Category by action": "Antiemetic",
+    "Category by system": "General",
+    "Medicine": "Metoclopramide",
+    "Manufacturer": "VomitBlock",
+    "Production date": "28.05.2024",
+    "Availability in pharmacies": "28 29 30",
+    "Cost": "320000",
+    "Count": "600",
+    "Description": "Prevents nausea and vomiting. Often used for gastrointestinal issues."
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Aspirin",
+    "Manufacturer": "BAYER",
+    "Production date": "28.11.2023",
+    "Availability in pharmacies": "1 2 3",
+    "Cost": "592800",
+    "Count": "1234",
+    "Description": "Relieves pain and reduces inflammation. Commonly used to treat headaches, fever, and minor aches and pains."
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Aspirin",
+    "Manufacturer": "Pharmaceuticals Co.",
+    "Production date": "15.06.2023",
+    "Availability in pharmacies": "4 5 6",
+    "Cost": "350000",
+    "Count": "2000",
+    "Description": "Provides relief from mild to moderate pain and fever. May help with headaches and muscle aches."
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Aspirin",
+    "Manufacturer": "Generic Pharma",
+    "Production date": "10.02.2024",
+    "Availability in pharmacies": "7 8 9",
+    "Cost": "220000",
+    "Count": "3000",
+    "Description": "Effective for reducing fever and inflammation. Often used for minor pain relief."
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Aspirin",
+    "Manufacturer": "MediLife",
+    "Production date": "22.09.2023",
+    "Availability in pharmacies": "10 11 12",
+    "Cost": "180000",
+    "Count": "2500",
+    "Description": "Aids in reducing fever and minor aches. Commonly used to alleviate headaches."
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Aspirin",
+    "Manufacturer": "HealthCare Solutions",
+    "Production date": "05.12.2023",
+    "Availability in pharmacies": "13 14 15",
+    "Cost": "500000",
+    "Count": "1000",
+    "Description": "Helps relieve mild to moderate pain and fever. Suitable for headache relief."
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Aspirin",
+    "Manufacturer": "Pharmaceuticals R Us",
+    "Production date": "18.03.2023",
+    "Availability in pharmacies": "16 17 18",
+    "Cost": "420000",
+    "Count": "1800",
+    "Description": "Reduces fever and minor aches. May alleviate headaches and muscle pain."
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Aspirin",
+    "Manufacturer": "Wellness Pharma",
+    "Production date": "07.08.2023",
+    "Availability in pharmacies": "19 20 21",
+    "Cost": "290000",
+    "Count": "2200",
+    "Description": "Effective for reducing fever and minor pain. Often used to relieve headaches."
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Aspirin",
+    "Manufacturer": "MediCure",
+    "Production date": "29.05.2024",
+    "Availability in pharmacies": "22 23 24",
+    "Cost": "240000",
+    "Count": "1800",
+    "Description": "Alleviates mild to moderate pain and fever. Helpful for headaches and muscle aches."
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Aspirin",
+    "Manufacturer": "PharmaCare",
+    "Production date": "14.10.2023",
+    "Availability in pharmacies": "25 26 27",
+    "Cost": "550000",
+    "Count": "1500",
+    "Description": "Relieves fever and minor aches. Suitable for headaches and body pain relief."
+  },
+  {
+    "Category by action": "Analgesic",
+    "Category by system": "Gastrointestinal",
+    "Medicine": "Aspirin",
+    "Manufacturer": "HealthPharm",
+    "Production date": "02.01.2024",
+    "Availability in pharmacies": "28 29 30",
+    "Cost": "460000",
+    "Count": "2000",
+    "Description": "Reduces fever and minor pain. Helpful in alleviating headaches and muscle aches."
+  }
+]
